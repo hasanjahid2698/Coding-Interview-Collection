@@ -26,6 +26,7 @@ Welcome to the **Coding Interview Collection**, your one-stop repository for mas
 1. Clone the repository to your local system:  
    ```bash
    git clone https://github.com/<your-username>/coding-interview-collection.git
+   ```
 2. Navigate through the folders to find resources, problems, and solutions.
 3. Contribute to the repository if you'd like to add more valuable content!
 
