@@ -26,6 +26,16 @@ print("Positive") if x > 0 else print("Non-positive")
 ```python
 for i in range(5):
     print(i)
+
+for x in range(2, 6):  # 2 to 6 (but not including 6)
+  print(x)
+
+for x in range(2, 30, 3): # Increment with 3 (default is 1)
+  print(x)
+
+for i, n in enumerate(nums):
+  print(i, n)
+
 ```
 ### While Loop
 ```python
