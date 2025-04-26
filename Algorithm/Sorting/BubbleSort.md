@@ -37,3 +37,7 @@ def bubble_sort_optimized(array):
 1. Compare adjacent elements.
 2. Swap if out of order.
 3. Repeat until sorted.
+
+## 🖼️ Visual Representation
+![Bubble Sort Steps](../../Resources/bubbleSort.gif)
+
