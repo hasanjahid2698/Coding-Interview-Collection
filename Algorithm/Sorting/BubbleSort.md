@@ -1,4 +1,4 @@
-# 🫧 Bubble Sort Cheat Sheet
+# 🫧 Bubble Sort
 
 ## 🐍 Python Code
 ### Standard Version:
