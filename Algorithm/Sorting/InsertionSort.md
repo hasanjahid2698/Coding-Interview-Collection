@@ -1,5 +1,8 @@
 # 🪜 Insertion Sort
 
+## 🖼️ Visual Representation
+![Bubble Sort Steps](../../Resources/Insertion.gif)
+
 ## 🐍 Python Code
 ### Standard Version:
 ```python
@@ -27,9 +30,3 @@ def insertion_sort(array):
 3. Shift larger elements one position to the right.
 4. Insert the current element into its correct position.
 5. Repeat for all elements.
-
-## 🖼️ Visual Representation
-![Insertion Sort Steps](https://upload.wikimedia.org/wikipedia/commons/4/42/Insertion_sort.gif)
-```
-
-This Markdown includes an image hosted on Wikipedia that visually explains Insertion Sort. If you need a custom image or specific illustration, let me know!
