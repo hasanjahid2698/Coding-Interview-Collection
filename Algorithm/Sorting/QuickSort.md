@@ -3,7 +3,7 @@
 
 ## 🖼️ Visual Representation
 
-![Quick Sort Steps](../../Resources/quicksort.gif)
+![Quick Sort Steps](../../Resources/quick_sort_partition_animation.gif)
 
 
 ## 🐍 Python Code
