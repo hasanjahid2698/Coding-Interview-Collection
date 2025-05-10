@@ -40,22 +40,15 @@ print(dfs_recursive(graph, 'A'))  # Output: ['A', 'B', 'D', 'E', 'F', 'C']
 * **Type**: Graph traversal algorithm.
 * **Works With**: Directed/Undirected Graphs, Trees.
 * **Time Complexity**: $O(V + E)$, where $V$ is vertices and $E$ is edges.
-* **Space Complexity**:
-
-  * Recursive: $O(V)$ (call stack).
-  * Iterative: $O(V)$ (explicit stack).
+* **Space Complexity**: Recursive: $O(V)$ (call stack).
 
 ## ⚙️ Algorithm Steps
 
-1. **Recursive DFS**:
-
+**Recursive DFS**:
    * Start at the initial node.
    * Visit the current node and mark it as visited.
    * Recur for all its unvisited neighbors.
-2. **Iterative DFS**:
 
-   * Use a stack instead of recursion.
-   * Pop nodes from the stack, visit them, and push their unvisited neighbors.
 
 ## 🛠️ Applications
 
