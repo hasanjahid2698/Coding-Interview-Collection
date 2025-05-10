@@ -4,7 +4,7 @@
 
 ### Linear vs Binary Search:
 
-![Linear vs Binary Search](../../Resources/binary_and_linear_search_animations.gif)
+![Linear vs Binary Search](../../Resources/binary-and-linear-search-animations.gif)
 
 
 ## 🐍 Python Code
