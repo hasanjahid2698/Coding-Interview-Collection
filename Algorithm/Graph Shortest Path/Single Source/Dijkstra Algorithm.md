@@ -2,7 +2,7 @@
 
 ## 🖼️ Visual Representation
 
-![Dijkstra's Algorithm Visualization](../../Resources/Dijkstra.gif)
+![Dijkstra's Algorithm Visualization](../../../Resources/Dijkstra.gif)
 
 
 ## 🐍 Python Code
