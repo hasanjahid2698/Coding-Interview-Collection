@@ -3,7 +3,7 @@
 
 ## 🖼️ Visual Representation
 
-![Prim's Algorithm Visualization](../Resources/Prim-animation.gif)
+![Prim's Algorithm Visualization](../../Resources/Prim-animation.gif)
 
 ## 🐍 Python Code
 ### Implementation:
