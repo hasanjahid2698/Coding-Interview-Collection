@@ -2,7 +2,7 @@
 
 ## 🖼️ Visual Representation
 
-![Bellman-Ford Algorithm Visualization](../../../Resources/Bellman_ford.mp4)
+![Bellman-Ford Algorithm Visualization](https://github.com/user-attachments/assets/4c72c1dc-53b9-4a4c-82dd-1c3a6259d943)
 
 
 ## 🐍 Python Code
