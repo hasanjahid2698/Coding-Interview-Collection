@@ -1,7 +1,7 @@
 # 🔄 Topological Sort
 
 ## 🖼️ Visual Representation
-![Topological Sort Visualization](https://upload.wikimedia.org/wikipedia/commons/5/5c/Directed_acyclic_graph.png)
+![Topological Sort Visualization](../Resources/topological sort.gif)
 
 ## 🐍 Python Code
 
