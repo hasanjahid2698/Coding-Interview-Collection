@@ -1,7 +1,7 @@
 # 🔄 Topological Sort
 
 ## 🖼️ Visual Representation
-![Topological Sort Visualization](../Resources/topological sort.gif)
+![Topological Sort Visualization](../Resources/topological_sort.gif)
 
 ## 🐍 Python Code
 
