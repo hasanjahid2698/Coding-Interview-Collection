@@ -1,7 +1,7 @@
 ### **1. Basics of Bit Manipulation**
 
-* **Binary Representation**: Understanding how numbers are represented in binary.
-* **Bitwise Operators**: Learn basic operators: AND (`&`), OR (`|`), XOR (`^`), NOT (`~`), and Shift operations (`<<`, `>>`).
+* **Binary Representation**
+* **Bitwise Operators**: basic operators: AND (`&`), OR (`|`), XOR (`^`), NOT (`~`), and Shift operations (`<<`, `>>`).
 
 ---
 
