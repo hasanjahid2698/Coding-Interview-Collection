@@ -86,6 +86,17 @@ for row in matrix:
 matrix[0][1] = 99  # Change 2 to 99
 ```
 
+## Declaring 1D and 2D Arrays
+```python
+N = 5
+arr1 = [0 for i in range(N)]
+
+# 2d array
+rows, cols = (5, 5)
+arr2 = [[0 for i in range(cols)] for j in range(rows)]
+
+```
+
 ## Strings
 ```python
 s = "hello"
